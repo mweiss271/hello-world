@@ -10,3 +10,5 @@ LOCAL CHANGES: I would like to learn the following
 1. More about stats
 2. More about machine learning
 3. Data Science in general
+
+See if I have to 'add' again.
