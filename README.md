@@ -7,9 +7,9 @@ I'm attempting to learn about data science using R.  Currently, I'm studying thr
 
 LOCAL CHANGES: I would like to learn the following
 
-1. More about stats
-2. More about machine learning
-3. Data Science in general
+* More about stats
+* More about machine learning
+* Data Science in general
 
 See if I have to 'add' again.
 
